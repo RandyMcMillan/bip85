@@ -1,0 +1,41 @@
+docker run 17da0c9597f1 "--bip32-master-seed=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" --index 0 bip39
+
+git at m1 in ~/Shared/Vinux.app/nostril/bip85 on master [!?]
+$ docker run 17da0c9597f1 "--bip39-mnemonic=fury proof fragile flush ostrich ask cute thought ostrich primary spider faint" --index 0 bip39
+Using master private key: xprv9s21ZrQH143K4KqzWWpENGYZG4fmmLWimmLwCQE2eYpSpnw3HDFsSHJ59RCTWwqG7XM25N4L1Furnxg13JziMSRtzarw2W7xb4rd4qLWtMJ
+bullet father enlist identify cereal rose over imitate park jeans dawn pupil
+
+git at m1 in ~/Shared/Vinux.app/nostril/bip85 on master [!?]
+$ docker run 17da0c9597f1 "--bip32-master-seed=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" --index 0 bip39
+Using master private key: xprv9s21ZrQH143K3FfUWNNWNdoVKFEhLM9znAokh5a2ANhM5XZm7VgHaaQDfJWcLzb9hujZYR1xKKHs4dmmeutCn6hQctT9cZzvTES2MT8t8bJ
+now chicken film pear thought gravity certain march flavor sun detect merry
+
+git at m1 in ~/Shared/Vinux.app/nostril/bip85 on master [!?]
+$ docker run 17da0c9597f1 "--bip39-mnemonic=now chicken film pear thought gravity certain march flavor sun detect merry" --index 0 bip39
+Using master private key: xprv9s21ZrQH143K4TEEiDbrqvsEDhDWMQRZeSofCBHzwvmveEEsjVPHvJUGYK4LHow66kdcFyCWmYud9LniuwvvZJaKtaCAJUfV7pAHfgNWSRR
+accuse segment demise hand foam example duty twelve diary vote pretty cream
+
+git at m1 in ~/Shared/Vinux.app/nostril/bip85 on master [!?]
+$ docker run 17da0c9597f1 "--bip39-mnemonic=now chicken film pear thought gravity certain march flavor sun detect merry" --index 1 bip39
+Using master private key: xprv9s21ZrQH143K4TEEiDbrqvsEDhDWMQRZeSofCBHzwvmveEEsjVPHvJUGYK4LHow66kdcFyCWmYud9LniuwvvZJaKtaCAJUfV7pAHfgNWSRR
+laptop judge crisp vocal clay cluster put cluster place hazard hotel track
+
+git at m1 in ~/Shared/Vinux.app/nostril/bip85 on master [!?]
+$
+
+
+0| shasum -a 256
+
+docker run 17da0c9597f1 "--bip32-master-seed=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" --index 0 bip39
+
+
+
+
+docker run 17da0c9597f1 "--bip32-master-seed=$(echo $(cat ../nostr.privkey.txt.gpg | gpg -q --decrypt --textmode))" --index 1 bip39  | shasum -a 256
+ docker run 17da0c9597f1 "--bip32-master-seed=$(echo $(cat ../nostr.privkey.txt.gpg | gpg -q --decrypt --textmode))" --index 1 bip39  | shasum -a 256
+
+ docker run 17da0c9597f1 "--xprv=3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" --index 0 bip39
+
+ docker run 17da0c9597f1 "--bip32-master-seed=3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" --index 1 bip39  | shasum -a 256
+
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
